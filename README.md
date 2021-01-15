@@ -1,16 +1,26 @@
-# animes_app
+# Animes+
 
-A new Flutter project.
+## Objetivo
 
-## Getting Started
+Crear una aplicación Flutter completamente desde cero.
+En este proyecto, construirás la interfaz de una aplicación de Animes. En el proceso, conocerás varios widgets y aprenderás a implementar imágenes en Flutter.
 
-This project is a starting point for a Flutter application.
+## Recursos en español
 
-A few resources to get you started if this is your first Flutter project:
+* [Introducción a los widgets](https://esflutter.dev/docs/development/ui/widgets-intro)
+* [Widgets básicos](https://esflutter.dev/docs/development/ui/widgets/basics)
+* [Widgets de Componentes Material](https://esflutter.dev/docs/development/ui/widgets/material)
+* [Layouts en Flutter](https://esflutter.dev/docs/development/ui/layout)
+* [Añadir assets e imágenes](https://esflutter.dev/docs/development/ui/assets-and-images)
+* [Añade Interactividad a Tu App Flutter](https://esflutter.dev/docs/development/ui/interactive#stateful-and-stateless-widgets)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Lo que aprenderás
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Cómo crear Stateless Widgets
+* Cómo agregar Material widgets
+* Cómo usar Scaffold para diseñar la interfaz de usuario
+* Cómo usar Columns para posicionar los elementos de tu UI
+* Cómo mejorar el responsive con SingleChildScrollView
+* Cómo dar estilos al widget Text
+* Cómo cargar y mostrar imágenes
+* Cómo crear widget personalizados
